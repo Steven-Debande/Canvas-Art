@@ -10,7 +10,6 @@
   
 Bon, maintenant que vous avez vu ce que vous allez créer, vous allez installer `canvas`, `canvas-constructor` et `axios`:
 ```
-npm install --s axios
 npm install --s canvas
 npm install --s canvas-constructor
 ```
